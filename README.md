@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- I’m Hưng. I'm a student of: [https://cmcu.edu.vn/](CMC University (CMCU))
+-  Can't think of anything to write
 <!--
 **hoaquyen666/hoaquyen666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
