@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 👋 Hi, I’m Hwg_012. I'm a student of :<a href="https://cmcu.edu.vn/" rel="nofollow">CMC University (CMCU)</a>
+- 👋 Hi, I’m Hwg_012. I'm a student of:<a href=" https://cmcu.edu.vn/" rel="nofollow"> CMC University </a>(CMCU)
 -  Can't think of anything to write
 <!--
 **hoaquyen666/hoaquyen666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
