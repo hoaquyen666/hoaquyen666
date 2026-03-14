@@ -4,7 +4,8 @@
 
 ## Languages 📗
 [![CSharp](https://custom-icon-badges.demolab.com/badge/C%23-%239B4F96.svg?logo=cshrp&logoColor=white)](#)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+[![Java](https://custom-icon-badges.demolab.com/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)](#)
+[![C++](https://custom-icon-badges.demolab.com/badge/C%2B%2B-%2300599C.svg?logo=cplusplus&logoColor=white)](#)
+[![HTML](https://custom-icon-badges.demolab.com/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://custom-icon-badges.demolab.com/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)](#)
+[![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)](#)
